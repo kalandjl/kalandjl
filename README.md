@@ -1,5 +1,5 @@
 
-- Very familiar with front end typescript programming (Next JS & React w/Firebase) as well as backend typescript, python, SQL and mongodb. Proficient in python, c# (unity), and java 
+- Familiar with front end typescript programming (Next JS & React w/Firebase) as well as backend typescript, python, SQL and mongodb. Proficient in python, c# (unity), and java 
 - Currently working on quickstudygpt & quantrack, both full stack web apps
 - Currently learning computer science algorithms
 - Insta: kalandjl
