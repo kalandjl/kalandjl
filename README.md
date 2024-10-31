@@ -1,8 +1,10 @@
 
 - Familiar with front end typescript programming (Next JS & React w/Firebase) as well as backend typescript, python, SQL and mongodb. Proficient in python, c# (unity), and java 
-- Currently working on quickstudygpt & quantrack, both full stack web apps
+- Utilized git, vercel and docker deploys for web applications
+- Able to work with docker swarm/secrets over a docker compose file
+- Currently working on QuickStudyGpt & Quantrack, both full stack web apps w/Next.JS
 - Currently learning computer science algorithms
-- Insta: kalandjl
+- Hoping to learn Svelt and Vue in the future
 
 
 <!--
