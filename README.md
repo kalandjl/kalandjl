@@ -2,7 +2,7 @@
 - Experienced & Familiar with front end typescript programming (Next JS & React w/Firebase) as well as backend Node JS/DENO JS, python, SQL, Redis, and mongodb. Proficient in python, c# (unity), and java 
 - Familiar with git, vercel and docker deploys for web applications
 - Able to work with docker swarm/secrets over a docker compose file, environment variables in general
-- Leading development for Quantrack frontend team
+- Leading development for Quantrack frontend team, freelance work
 - Currently learning computer science algorithms
 - Hoping to learn Svelt and Vue in the future
 
