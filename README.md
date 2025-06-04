@@ -1,9 +1,8 @@
 
-- Experienced & Familiar with front end typescript programming (Next JS & React w/Firebase) as well as backend Node JS/DENO JS, python, SQL, Redis, and mongodb. Proficient in python, c# (unity), and java 
+- Experienced with front end typescript programming (Next JS & React w/Firebase) as well as backend Node JS/DENO JS, python, SQL, Redis, and mongodb. Proficient in python (data science), c# (unity), and java 
 - Comfortable with git, vercel and docker environments for web applications
-- Freelance work (personal portfolios, basic services)
-- Currently taking fastai's machine learning course
-- Planning to learn cybersecurity and low level languages like rust soon
+- Currently working on my first machine learning app - LeanAI as well as freelance projects
+- Planning to learn cybersecurity and low level languages soon
 
 
 <!--
