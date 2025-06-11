@@ -1,8 +1,8 @@
-### Tech Skills
-## Frontend: 
+## Tech Skills
+### Frontend: 
 TypeScript, React, Next.js, Firebase, Tailwind
 
-## Backend: 
+### Backend: 
 Node.js, Deno, Python, SQL, MongoDB, Redis
 
 ### Other Languages: 
