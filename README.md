@@ -1,11 +1,12 @@
 ### Tech Skills
-Frontend: TypeScript, React, Next.js, Firebase
+## Frontend: 
+TypeScript, React, Next.js, Firebase, Tailwind
 
-### Backend: Node.js, 
-Deno, Python, SQL, MongoDB, Redis
+## Backend: 
+Node.js, Deno, Python, SQL, MongoDB, Redis
 
 ### Other Languages: 
-Proficient in Python (for data science), C# (Unity), and Java
+Proficient in Python (data science), C# (Unity), and Java
 
 ### DevOps: 
 Git, Docker, Vercel deployments
