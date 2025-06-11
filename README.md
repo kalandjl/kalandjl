@@ -1,21 +1,18 @@
+Tech Skills
+Frontend: TypeScript, React, Next.js, Firebase
 
-- Experienced with front end typescript programming (Next JS & React w/Firebase) as well as backend Node JS/DENO JS, python, SQL, Redis, and mongodb. Proficient in python (data science), c# (unity), and java 
-- Comfortable with git, vercel and docker environments for web applications
-- Currently working on my first machine learning app - LeanAI as well as freelance projects
-- Planning to learn cybersecurity and low level languages soon
+Backend: Node.js, Deno, Python, SQL, MongoDB, Redis
 
+Other Languages: Proficient in Python (for data science), C# (Unity), and Java
 
-<!--
-**kalandjl/kalandjl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevOps: Git, Docker, Vercel deployments
 
-Here are some ideas to get you started:
+🛠️ Current Projects
+LeanAI — My first machine learning project, combining AI and automation for lean development workflows
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Freelance projects in photography websites, creative tools, and performance arts platforms
+
+🎯 Goals
+Expanding into cybersecurity and low-level systems programming
+
+Continuing to push the boundaries of interactive and intelligent applications
