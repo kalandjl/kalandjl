@@ -1,19 +1,18 @@
 ## Tech Skills
 ### Frontend: 
-TypeScript, React, Next.js, Firebase, Tailwind
+TypeScript, React, Next.js, Firebase, Tailwind, Sass
 
 ### Backend: 
-Node.js, Deno, Python, SQL, MongoDB, Redis
+Node.js, Deno, Python, SQL, MongoDB, Redis, GraphQL
 
 ### Other Languages: 
-Proficient in Python (data science), C# (Unity), and Java
+Proficient in Python (data science / pytorch), C# (Unity), and Java
 
 ### DevOps: 
-Git, Docker, Vercel deployments
+Git, Docker, Vercel, Hugging Faces (models & spaces) & Google Cloud Suite
 
-###Current Projects
-LeanAI — My first machine learning project, combining AI and automation for lean development workflows
-
+### Current Projects
+LoRa from scratch: implementing the LoRa research paper into a base LLM as a part of my machine learning studying
 Freelance projects in photography websites, creative tools, and performance arts platforms
 
 ### Goals
