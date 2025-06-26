@@ -1,4 +1,4 @@
-## Hi, I'm Kalan Jarvis-Loewen
+## Hi, I'm Kalan
 - Front End | NextJS, React JS, Tailwind CSS, Sass, Firebase, Typescript
 - REST | Node.JS, Deno.JS, FastAPI, Django, Flask
 - Back End | Mongo.DB, Redis, MySQL, PostGres, GraphQL
