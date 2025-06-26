@@ -1,11 +1,11 @@
 ## Hi, I'm Kalan Jarvis-Loewen
-Front End | NextJS, React JS, Tailwind CSS, Sass, Firebase, Typescript
-REST | Node.JS, Deno.JS, FastAPI, Django, Flask
-Back End | Mongo.DB, Redis, MySQL, PostGres, GraphQL
-Machine Learning | Numpy Machile Learning, Pytorch, Fast AI
-DevOps | Git, Docker, Vercel, Hugging Faces (models & spaces) & Google Cloud Suite
-Automation | n8n.io
-Other | C# (Unity), Java
+- Front End | NextJS, React JS, Tailwind CSS, Sass, Firebase, Typescript
+- REST | Node.JS, Deno.JS, FastAPI, Django, Flask
+- Back End | Mongo.DB, Redis, MySQL, PostGres, GraphQL
+- Machine Learning | Numpy Machile Learning, Pytorch, Fast AI
+- DevOps | Git, Docker, Vercel, Hugging Faces (models & spaces) & Google Cloud Suite
+- Automation | n8n.io
+- Other | C# (Unity), Java
 
 ### Current Projects 
  - Cybersecurity vulnerability app
