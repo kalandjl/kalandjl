@@ -27,3 +27,8 @@ Other | C# (Unity), Java
   />
   <img src="https://github-readme-stats.vercel.app/api?username=kalandjl&show_icons=true" />
 </picture>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,ts,js,c,cpp,rust,pytorch,tensorflow,nextjs,react,nodejs,tailwind,gcp,vercel,docker,git,github,mysql,postgres,firebase&theme=dark&perline=10" />
+  </a>
+</p>
