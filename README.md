@@ -8,7 +8,7 @@
 - Other | C# (Unity), Java
 
 ### Current Projects 
- - Cybersecurity vulnerability app
+ - Completing "Pre Security Training" on tryhackme.com
  - Building n8n ai automation bots for business startup 
  - Freelance projects in photography websites, creative tools, and performance arts platforms
 ### Goals 
