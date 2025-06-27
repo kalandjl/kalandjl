@@ -1,5 +1,5 @@
-## Hi, I'm Kalan 
-### I'm a 17 year old freelance web developer & enrolled computer science student
+## Hi, I'm Kalan 👋
+#### I'm a 17 year old freelance web developer & enrolled computer science student
 - Front End | NextJS, React JS, Tailwind CSS, Sass, Firebase, Typescript
 - REST | Node.JS, Deno.JS, FastAPI, Django, Flask
 - Back End | Mongo.DB, Redis, MySQL, PostGres, GraphQL
