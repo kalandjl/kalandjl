@@ -10,7 +10,7 @@
 - Other | C# (Unity), Java
 
 ### Current Projects 
- - Improving cybersecurity skills on hackthebox.com
+ - Ether ghost; Internet proxy tool that exploits the man-in-the-middle vulnerabilty
  - Building n8n ai automation bots for business startup 
  - Freelance projects in photography websites, creative tools, and performance arts platforms
 ### Goals 
