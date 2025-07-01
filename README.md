@@ -10,7 +10,7 @@
 - Other | C# (Unity), Java
 
 ### Current Projects 
- - Ether ghost; Internet proxy tool that exploits the man-in-the-middle vulnerabilty
+ - SYNapse; A network proxy tool that exploits the man-in-the-middle vulnerabilty
  - Building n8n ai automation bots for business startup 
  - Freelance projects in photography websites, creative tools, and performance arts platforms
 ### Goals 
