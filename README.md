@@ -10,7 +10,8 @@
 - Other | C# (Unity), Java
 
 ### Current Projects 
- - SYNapse; A network proxy tool that exploits the man-in-the-middle vulnerabilty
+ - Spectre: Full stack enterprise cybersecurity app
+ - SYNapse: PiP network vulnerability package 
  - Building n8n ai automation bots for business startup 
  - Freelance projects in photography websites, creative tools, and performance arts platforms
 ### Goals 
