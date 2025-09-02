@@ -10,10 +10,9 @@
 - Other | C# (Unity), Java
 
 ### Current Projects 
- - [Spectre](https://www.github.com/kalandjl/spectre): Full stack enterprise cybersecurity app
  - [SYNapse](https://www.github.com/kalandjl/SYNapse): PiP network vulnerability package 
- - Building n8n ai automation bots for business startup 
  - Freelance projects in photography websites, creative tools, and performance arts platforms
+ - Purusing computer science education
 ### Goals 
  - Expanding into low-level systems programming
  - Continuing to push the boundaries of interactive and intelligent applications
