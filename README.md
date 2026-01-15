@@ -8,11 +8,6 @@
 - Automation | n8n.io
 - Other | C# (Unity), Java
 
-### Current Projects 
- - [SYNapse](https://www.github.com/kalandjl/SYNapse): PiP network vulnerability package
- - [Agentic](https://www.github.com/kalandjl/agentic): RL network environement to simulate emergent learning paterns
- - Freelance projects in photography websites, creative tools, and performance arts platforms
- - Purusing computer science education
 ### Goals 
  - Expanding into low-level systems programming
  - Continuing to push the boundaries of interactive and intelligent applications
